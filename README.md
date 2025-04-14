@@ -1,6 +1,6 @@
 ## TBC Analystics Test (Beer Advocate)
 
-**From [here](https://tcbanalytics.com/2016/01/29/how-to-hire-and-test-for-data-skills-a-one-size-fits-all-interview-kit/)**
+**From [How to Hire and Test for Data Skills: a One-Size-Fits-All Interview Kit](https://tcbanalytics.com/2016/01/29/how-to-hire-and-test-for-data-skills-a-one-size-fits-all-interview-kit/)**
 
 "In an effort to make the interviewing experience a bit more fun, we use a dataset that involves beer. This dataset consists of 1.5 million beer reviews from Beer Advocate. It is an ideal dataset for testing candidates since it is too large to fit into Excel, but small enough to process on a single laptop in Python or R. We prefer that candidates complete the test in either Python or R, and generally if they are hesitant about using or trying to learn either of these languages, that should signal a red flag.
 
