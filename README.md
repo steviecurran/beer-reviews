@@ -15,4 +15,7 @@ TBC Analystics Test (Beer Advocate)
 
 - Lastly, if I typically enjoy a beer due to its aroma and appearance, which beer style should I try?"
 
-Here's my attempt. Note that from the url, the data may take a while to load.
+Here's my attempt. 
+
+if the data are taking too long to load, try the notebook at [Kaggle][https://www.kaggle.com/code/steviemooncat/beer-reviews]
+
