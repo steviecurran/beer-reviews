@@ -19,5 +19,4 @@ Here's my attempt.
 
 if the data are taking too long to load, try the notebook at [Kaggle](https://www.kaggle.com/code/steviemooncat/beer-reviews)
 
-![](https://raw.githubusercontent.com/steviecurran/beer-reviews/refs/heads/main/heatmap.png)
-![](https://raw.githubusercontent.com/steviecurran/beer-reviews/refs/heads/main/IMG_1809%20copy.JPG)
+![](https://raw.githubusercontent.com/steviecurran/beer-reviews/refs/heads/main/heatmap.png) ![](https://raw.githubusercontent.com/steviecurran/beer-reviews/refs/heads/main/IMG_1809%20copy.JPG)
