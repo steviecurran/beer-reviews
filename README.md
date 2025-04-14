@@ -1,6 +1,3 @@
-# beer-reviews
-TBC Analystics Test (Beer Advocate)
-
 ## TBC Analystics Test (Beer Advocate)
 
 **From [here](https://tcbanalytics.com/2016/01/29/how-to-hire-and-test-for-data-skills-a-one-size-fits-all-interview-kit/)**
