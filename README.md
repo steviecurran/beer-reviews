@@ -17,5 +17,6 @@ TBC Analystics Test (Beer Advocate)
 
 Here's my attempt. 
 
-if the data are taking too long to load, try the notebook at [Kaggle][https://www.kaggle.com/code/steviemooncat/beer-reviews]
+if the data are taking too long to load, try the notebook at [Kaggle](https://www.kaggle.com/code/steviemooncat/beer-reviews)
+
 
