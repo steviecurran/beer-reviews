@@ -29,7 +29,7 @@
 
   | beer_id   | beer_name  | beer_style | beer_abv  |rewery_id  | rewery_name | review_overall | +/- | review_others |+/-| No. reviews|
   | :---       | :---      | :---        | :---     | :---       | :---        | :---          | :--- | :---         | :--- | :---    |
-  |21690 |Pliny The Younger|American Double/Imperial IPA|17536|11.0|63 |Russian River Brewing Company |4.723770|0.028002|4.482787|0.032832|610|  
+  |21690 |Pliny The Younger|American Double/Imperial IPA|11.0|63 |Russian River Brewing Company |4.723770|0.028002|4.482787|0.032832|610|  
   |42349|Vanilla Bean Aged Dark Lord|Russian Imperial Stout|13.0|26|Three Floyds Brewing Co. & Brewpub| 4.717105|0.064031|4.450658|0.066032|152|  
   |63649|Rare D.O.S.|American Double/ mperial Stout|NaN|22147|Peg's Cantina & Brewpub/ ycle Brewing|4.757576|0.107152|4.469697|0.096254|33|  
 
