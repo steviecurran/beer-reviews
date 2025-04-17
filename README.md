@@ -22,7 +22,8 @@
 - Which of the factors (aroma, taste, appearance, palette) are most important in determining the overall quality of a beer?
 
   Taste and palate
-  ![](https://raw.githubusercontent.com/steviecurran/beer-reviews/refs/heads/main/heatmap.png) ![]
+  
+  ![](https://raw.githubusercontent.com/steviecurran/beer-reviews/refs/heads/main/heatmap.png)
 
 - Lastly, if I typically enjoy a beer due to its aroma and appearance, which beer style should I try?"
 
@@ -33,7 +34,5 @@
   |63649|Rare D.O.S.|American Double/ mperial Stout|NaN|22147|Peg's Cantina & Brewpub/ ycle Brewing|4.757576|0.107152|4.469697|0.096254|33|  
 
   Again for all, although style can be selected from a drop down menus, as well as the characeristics.
-
-Here's my attempt. 
 
 If the remote data are taking too long to load, try the notebook at [Kaggle](https://www.kaggle.com/code/steviemooncat/beer-reviews)
