@@ -13,21 +13,11 @@
 
   | beer_id   | beer_name  | beer_style | beer_abv  |rewery_id  | rewery_name | review_overall | +/- | review_others |+/-| No. reviews|
   | :---       | :---      | :---        | :---     | :---       | :---        | :---          | :--- | :---         | :--- | :---    |
-  |63649  | Rare D.O.S.  | American Double / Imperial Stout |  NaN   22147   
-  44910                  Dirty Horse                Lambic - Unblended       7.0       15237   
-  8626  Southampton Berliner Weisse                Berliner Weissbier       2.0        1628   
+  |63649|Rare D.O.S. American Double/Imperial Stout| NaN |22147| Peg's Cantina & Brewpub/Cycle Brewing|4.848485 |0.091719 |4.719697 |0.073459|33|  
+  44910|Dirty Horse|Lambic - Unblended|7.0|15237|De Struise Brouwers|4.820513|0.092892|0.589744|0.081014|39|
+  8626| Southampton Berliner Weisse|Berliner Weissbier|2.0|1628|Southampton Publick House|4.768293|0.092306|4.371951 |0.100824 |41|  
 
-                                  b \
-53419  Peg's Cantina & Brewpub / Cycle Brewing        4.848485            0.091719       4.719697   
-37035                      De Struise Brouwers        4.820513            0.092892       4.589744   
-7188                 Southampton Publick House        4.768293            0.092306       4.371951   
-
-       +/- review_others  No. reviews  
-53419           0.073459           33  
-37035           0.081014           39  
-7188            0.100824           41  
-
-This is for all beers at 95% confidence. Both the beer style and confidence level can be altered via the dropdown and the slider.
+  This is for all beers at 95% confidence. Both the beer style and confidence level can be altered via the dropdown and the slider.
 
 - Which of the factors (aroma, taste, appearance, palette) are most important in determining the overall quality of a beer?
 
