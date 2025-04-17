@@ -13,7 +13,7 @@
 
   | beer_id   | beer_name  | beer_style | beer_abv  |rewery_id  | rewery_name | review_overall | +/- | review_others |+/-| No. reviews|
   | :---       | :---      | :---        | :---     | :---       | :---        | :---          | :--- | :---         | :--- | :---    |
-  |63649|Rare D.O.S. American Double/Imperial Stout| NaN |22147| Peg's Cantina & Brewpub/Cycle Brewing|4.848485 |0.091719 |4.719697 |0.073459|33|  
+  |63649|Rare D.O.S. | American Double/Imperial Stout| NaN |22147| Peg's Cantina & Brewpub/Cycle Brewing|4.848485 |0.091719 |4.719697 |0.073459|33|  
   44910|Dirty Horse|Lambic - Unblended|7.0|15237|De Struise Brouwers|4.820513|0.092892|0.589744|0.081014|39|
   8626| Southampton Berliner Weisse|Berliner Weissbier|2.0|1628|Southampton Publick House|4.768293|0.092306|4.371951 |0.100824 |41|  
 
