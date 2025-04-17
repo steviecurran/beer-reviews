@@ -27,7 +27,7 @@
 
 - Lastly, if I typically enjoy a beer due to its aroma and appearance, which beer style should I try?"
 
-  | beer_id   | beer_name  | beer_style | beer_abv  |rewery_id  | rewery_name | review_overall | +/- | review_others |+/-| No. reviews|
+  | beer_id   | beer_name  | beer_style | beer_abv  |rewery_id  | rewery_name | review_aroma | +/- | review_appearance|+/-| No. reviews|
   | :---       | :---      | :---        | :---     | :---       | :---        | :---          | :--- | :---         | :--- | :---    |
   |21690 |Pliny The Younger|American Double/Imperial IPA|11.0|63 |Russian River Brewing Company |4.723770|0.028002|4.482787|0.032832|610|  
   |42349|Vanilla Bean Aged Dark Lord|Russian Imperial Stout|13.0|26|Three Floyds Brewing Co. & Brewpub| 4.717105|0.064031|4.450658|0.066032|152|  
